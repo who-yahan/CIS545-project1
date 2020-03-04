@@ -1,4 +1,4 @@
-n Problem 1, firstly read the txt file and make it into DataFrame separated by’,’ whose
+In Problem 1, firstly read the txt file and make it into DataFrame separated by’,’ whose
 columns are ‘user’, ‘Rating’ and ‘data’. Then use movie_row to store the index of items
 containing ‘:’ in the first column, which is the movieID. Check the format of the first
 and third column to examine whether none are missing in MovieIDs and UserIDs. Use
